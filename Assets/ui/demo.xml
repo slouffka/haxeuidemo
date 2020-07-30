@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<box width="100%" height="100%" style="background-color: #000000">
+    <vbox verticalAlign="center" horizontalAlign="center" style="padding: 16px; background-color: #fff">
+        <label text="Game title" horizontalAlign="center" />
+
+        <hbox>
+            <label text="Player name:" verticalAlign="center" />
+            <textfield id="playerName" placeholder="Enter player name" />
+        </hbox>
+
+        <button id="joinButton" text="Join Game" horizontalAlign="center" />
+    </vbox>
+</box>
