@@ -1,0 +1,5 @@
+-lib lime:7.8.0
+-lib openfl:8.9.7
+-lib hxcpp:4.1.15
+-lib haxeui-core:1.1.1
+-lib haxeui-openfl:1.1.0
